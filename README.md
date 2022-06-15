@@ -23,3 +23,5 @@ are cuased by two trailing spaces at the end of a line.
     2. Section 2
 4. Philosophers carpentry
 
+![university of leeds logo](./unileedslogo.png)  
+University of Leeds Logo, copyright University of Leeds 2022.
